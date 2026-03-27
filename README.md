@@ -1,4 +1,4 @@
-# Olá, eu sou Leonardo Bruno Cardoso
+# Olá, eu sou Leonardo  
 **Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
 Preparando-se para o mercado de tecnologia**
 ---
@@ -17,3 +17,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 ---
+## Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+---
+## Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:leonardobrunocardoso3@gmail.com) 
